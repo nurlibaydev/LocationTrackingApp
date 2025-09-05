@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">LocationTrackingApp</string>
+    <string name="mapbox_access_token" translatable="false" tools:ignore="UnusedResources">
+        sk.eyJ1IjoibnVybGliYXkiLCJhIjoiY21mNDNucTA0MDBwMjJqc2FjaXVwbHNpMiJ9.00ht_4zOAydDZ20T-Ego7Q
+    </string>
+</resources>
